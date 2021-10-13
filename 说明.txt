@@ -1,2 +1,1 @@
-qwe
-asd
+git@github.com:gzh52108/outline.git
